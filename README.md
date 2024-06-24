@@ -1,41 +1,29 @@
-# Simple and beauty portfolio
-This simple and clean portfolio template was developed in HTML, CSS, and JavaScript. This portfolio could be posted via GitHub Pages without any issues.
+# Портфолио
 
-## How you can use it
-Basically, there are two ways of using this template. And it depends if you know HTML or not.
+Добрый день, меня зовут Николай, я джуниор QA-инженерб, ищу удаленную работу.
 
-If you are familiar with HTML you can use this template as a constructor brick and build your own page as you would like.
+# Обо мне
 
-For those of you who don't familiar with HTML, I've prepared a few already-made pages that you can find in the `example` folder.
+На данный момент обучаюсь на ручного тестировщика в школе SkyPro. Изучаю тестирование на курсах, также смотрю разные обучающие ролики на ютюб и каналы по тестированию в телеграмм, читаю литературу о третировании программ.
 
-When you'll choose which page you would like to use, you need to follow a few easy steps:
+Также работал в торговле-розница. Работал в таких компаниях как Sony Centre(Краснодар), Бутик BORK(Москва, Санкт Петербург, Краснодар, в данных компаниях развил такие навыки как внимательность к деталям, должностные обязанности и выполнение их и карьерный рост.
 
-* Copy the page that you like to the rood directory of this template and rename it to `index.html`
-  > Pay attention! You might need to remove or rename existing index.html
-* Adjust and edit text so that this page will fit your needs
+# Связаться со мной
 
-And that's it.
+telegram: https://t.me/Nplotnikov
 
-Now you can upload your fresh `index.html` and `assets` folder to the GitHub Pages or whatever hosting you prefer. 
+почта: nickplotnikov@gmail.com
 
----
+Страничка на GIT: https://github.com/NickPlotnikov
 
-# Простое и красивое портфолио
-Этот простой и понятный шаблон портфолио был разработан с использованием HTML, CSS и JavaScript. Это портфолио может быть размещено на страницах GitHub без каких-либо проблем.
+# Языки и инструменты
 
-## Как вы можете это использовать
-По сути, есть два способа использования этого шаблона. Выбор способа зависит от того, знаете ли вы HTML или нет.
+По  мере прохождения курсов, я освоил такие инструменты, как Postman, SOAP UI, Docker, Jenkins, Git. Знаю основы HTML, CSS и SQL.
 
-Если вы знакомы с HTML, вы можете использовать этот шаблон в качестве конструктора и создать свою собственную страницу по своему усмотрению.
+# Портфолио
 
-Для тех из вас, кто не знаком с HTML, я подготовил несколько уже готовых страниц, которые вы можете найти в папке «example».
+Первый проект: расписание уроков в личном кабинете для учителей Skyeng
 
-Когда вы выберете, какую страницу вы хотели бы использовать, вам нужно выполнить несколько простых шагов:
+Ссылка: https://qa-np-bagreport.atlassian.net/l/cp/aLH75x3H
 
-* Скопируйте понравившуюся страницу в корневой каталог этого шаблона и переименуйте ее в `index.html`
-  > Обратите внимание! Возможно, вам придется удалить или переименовать существующий index.html.
-* Отредактируйте текст так, чтобы эта страница соответствовала вашим потребностям
-
-Вот и все.
-
-Теперь вы можете загрузить новый index.html и папку с ресурсами на Github Pages или любой другой хостинг, который вы предпочитаете.
+Второй проект: [Финальный проект по ручному тестированию](https://www.notion.so/0a121655b50141f08572956213a459d0?pvs=21)
